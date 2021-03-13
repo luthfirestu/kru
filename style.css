@@ -26,7 +26,7 @@ body{
   }
   
   .card-1 {
-    position: f;
+    position: relative;
     border-radius: 20px;
     width: 30rem;
     box-shadow: 0 0px 15px white;
